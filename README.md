@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Ishanvi Chauhan, a Computer Science Engineering student fueled by a passion for creating and innovating. <br>💻 I'm proficient in Python, SQL, HTML, CSS, JavaScript, and React, and hold certifications in Machine Learning and Data Science. <br>🚀 I'm always eager to take on new challenges and contribute to impactful projects. You'll find me leveraging C, C++, PHP, and MySQL, with my go-to tools being Git/GitHub and Visual Studio Code. <br>✨ Let's connect and build something amazing together! 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishanvi.chauhan.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishanvi-chauhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@sidehustle7yt) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DebuggedMind7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TechThingyShorts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishanvi.chauhan@gmail.com) 
 
@@ -15,10 +14,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanviChauhan&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IshanviChauhan&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
